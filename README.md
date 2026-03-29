@@ -23,7 +23,16 @@ EventHub is a mobile application interface designed to provide a seamless user e
 * **Data:** Static JSON/List data.
 
 ## 📸 App Screenshots
-*(Please add screenshots below to showcase your design!)*
+<table>
+  <tr>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/1.jpg?raw=true]" width="250" alt="Screen 1"></td>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/3.jpg?raw=true]" width="250" alt="Screen 2"></td>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/5.jpg?raw=true]" width="250" alt="Screen 3"></td>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/6.jpg?raw=true]" width="250" alt="Screen 4"></td>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/8.jpg?raw=true]" width="250" alt="Screen 5"></td>
+    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/7.jpg?raw=true]" width="250" alt="Screen 6"></td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Getting Started
