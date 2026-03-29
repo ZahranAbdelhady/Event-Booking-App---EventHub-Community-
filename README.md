@@ -25,12 +25,12 @@ EventHub is a mobile application interface designed to provide a seamless user e
 ## 📸 App Screenshots
 <table>
   <tr>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/1.jpg?raw=true]" width="250" alt="Screen 1"></td>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/3.jpg?raw=true]" width="250" alt="Screen 2"></td>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/5.jpg?raw=true]" width="250" alt="Screen 3"></td>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/6.jpg?raw=true]" width="250" alt="Screen 4"></td>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/8.jpg?raw=true]" width="250" alt="Screen 5"></td>
-    <td><img src="[https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/blob/main/7.jpg?raw=true]" width="250" alt="Screen 6"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/1.jpg]" width="250" alt="Screen 1"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/3.jpg]" width="250" alt="Screen 2"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/5.jpg]" width="250" alt="Screen 3"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/6.jpg]" width="250" alt="Screen 4"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/7.jpg]" width="250" alt="Screen 5"></td>
+    <td><img src="[https://raw.githubusercontent.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-/refs/heads/main/8.jpg]" width="250" alt="Screen 6"></td>
   </tr>
 </table>
 ---
