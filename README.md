@@ -1,16 +1,32 @@
-# sesion_8
+# EventHub Community 🎫
 
-A new Flutter project.
+### A modern Event Booking Application UI built with Flutter.
 
-## Getting Started
+EventHub is a mobile application interface designed to provide a seamless user experience for discovering and booking community events. This project focuses on implementing a clean, responsive UI and intuitive navigation using Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features (UI Implementation)
+* **Splash Screen:** Welcoming screen upon app launch.
+* **Onboarding:** Introduction to the app's core features.
+* **Authentication UI:** Login and Registration screens.
+* **Event Discovery:** Browse upcoming events by category.
+* **Detailed Event View:** Displays event descriptions, locations, and timings.
+* **Booking Steps:** Simple flow for reserving tickets (UI only).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack & Tools
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Design Pattern:** Clean UI with native widgets.
+* **Navigation:** `Navigator` (Named routes).
+* **Data:** Static JSON/List data.
+
+## 📸 App Screenshots
+*(Please add screenshots below to showcase your design!)*
+---
+
+## 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/ZahranAbdelhady/Event-Booking-App---EventHub-Community-`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
