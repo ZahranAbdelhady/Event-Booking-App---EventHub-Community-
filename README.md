@@ -27,16 +27,16 @@ EventHub is a mobile application interface designed to provide a seamless user e
 <table style="width: 100%;">
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/cb6f13c0-343e-4f96-b3bd-cd1301f90017" width="200px"><br><sub><b>Splash & Onboarding</b></sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/418fdfb1-167e-4afc-a670-3ade0a505365" width="200px"><br><sub><b>Login UI</b></sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/15ec5ec9-0019-40cc-9730-41d2a21e1d14" width="200px"><br><sub><b>Sign Up</b></sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/418fdfb1-167e-4afc-a670-3ade0a505365" width="200px"><br><sub><b>Splash & Onboarding</b></sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/15ec5ec9-0019-40cc-9730-41d2a21e1d14" width="200px"><br><sub><b>Login</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/c7cac638-e198-4eaa-a914-beabbc5f6fa9" width="200px"><br><sub><b>Home Screen</b></sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/d2dcebca-8799-445f-ac10-2841622532a9" width="200px"><br><sub><b>Event Details</b></sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/debb05c7-ab89-4a1d-9208-4f39be948504" width="200px"><br><sub><b>Booking Flow</b></sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c7cac638-e198-4eaa-a914-beabbc5f6fa9" width="200px"><br><sub><b>Sign Up</b></sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d2dcebca-8799-445f-ac10-2841622532a9" width="200px"><br><sub><b>Profile View</b></sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/debb05c7-ab89-4a1d-9208-4f39be948504" width="200px"><br><sub><b>Event Details</b></sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><img src="https://github.com/user-attachments/assets/fa40555c-139f-4c0f-af62-30d9ed7c9e0d" width="200px"><br><sub><b>Profile View</b></sub></td>
+    <td align="center" colspan="3"><img src="https://github.com/user-attachments/assets/fa40555c-139f-4c0f-af62-30d9ed7c9e0d" width="200px"><br><sub><b>ٍSearch</b></sub></td>
   </tr>
 </table>
 ---
